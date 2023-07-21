@@ -4,3 +4,4 @@ function skillsmember() {
     var contact = document.getElementById("contact");
     var about = document.getElementById("about");
     var projects = document.getElementById("projects");
+}
